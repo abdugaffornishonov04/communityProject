@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="footer-wrapper container">
         <div className="footer-col-1">
           <a href="#" className="footer-logo">
-            <img src="/public/favicon.png" alt="logo" />
+            <img src="/favicon.png" alt="logo" />
             <p>Community</p>
           </a>
           <p className="footer-col1-text">Bespoke software solutions</p>
@@ -14,28 +14,28 @@ const Footer = () => {
               rel="noopener noreferrer"
               href="https://www.facebook.com"
             >
-              <img src="/public/facebook.png" alt="" />
+              <img src="/facebook.png" alt="" />
             </a>
             <a
               target="_blank"
               rel="noopener noreferrer"
               href="www.youtube.com/@devgaffor"
             >
-              <img src="/public/youtube.png" alt="" />
+              <img src="/youtube.png" alt="" />
             </a>
             <a
               target="_blank"
               rel="noopener noreferrer"
               href="https://www.instagram.com/devgaffor"
             >
-              <img src="/public/instagram.png" alt="" />
+              <img src="/instagram.png" alt="" />
             </a>
             <a
               target="_blank"
               rel="noopener noreferrer"
               href="https://twitter.com/devgaffor"
             >
-              <img src="/public/twitter.png" alt="" />
+              <img src="/twitter.png" alt="" />
             </a>
           </div>
         </div>

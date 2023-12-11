@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <header className="header">
       <a href="#" className="header-logo">
-        <img src="/public/favicon.png" alt="logo" />
+        <img src="/favicon.png" alt="logo" />
         <p>Community</p>
       </a>
       <nav>
@@ -62,8 +62,8 @@ const Header = () => {
             <img
               src={
                 headerCloserVar
-                  ? "/public/header-closer.png"
-                  : "/public/menuhamburger.png"
+                  ? "/header-closer.png"
+                  : "/menuhamburger.png"
               }
               alt="hamburger"
             />
