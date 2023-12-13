@@ -4,3 +4,12 @@
 
 3. Z indexes 
   header - 990
+
+  home page hero right bacground image - 912
+  home page hero right orane1 - 913
+  home page hero right orange2 - 911
+
+4. hph means home page hero
+
+
+5. reminder that work on hover carefully
