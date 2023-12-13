@@ -20,9 +20,9 @@ const HomePageHero = () => {
             <div className="hph-logos">
               <p>Worked with 100+ Companies</p>
               <div className="hph-logos-wrapper">
-                <img src="/public/hphlogos1.svg" alt="" />
-                <img src="/public/hphlogos2.svg" alt="" />
-                <img src="/public/hphlogos3.svg" alt="" />
+                <img src="/hphlogos1.svg" alt="" />
+                <img src="/hphlogos2.svg" alt="" />
+                <img src="/hphlogos3.svg" alt="" />
               </div>
             </div>
           </div>
