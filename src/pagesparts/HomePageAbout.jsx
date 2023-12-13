@@ -14,7 +14,7 @@ const HomePageAbout = () => {
           <div className="hpa-cards">
             <div className="hpa-card">
               <div className="hpa-card-image">
-                <img src="/public/hpa-cardimg1.png" alt="" />
+                <img src="/hpa-cardimg1.png" alt="" />
               </div>
               <h4>Business strategy</h4>
               <p>
@@ -28,7 +28,7 @@ const HomePageAbout = () => {
             </div>
             <div className="hpa-card">
               <div className="hpa-card-image">
-                <img src="/public/hpa-cardimg2.png" alt="" />
+                <img src="/hpa-cardimg2.png" alt="" />
               </div>
               <h4>Business strategy</h4>
               <p>
@@ -42,7 +42,7 @@ const HomePageAbout = () => {
             </div>
             <div className="hpa-card">
               <div className="hpa-card-image">
-                <img src="/public/hpa-cardimg3.png" alt="" />
+                <img src="/hpa-cardimg3.png" alt="" />
               </div>
               <h4>Business strategy</h4>
               <p>
