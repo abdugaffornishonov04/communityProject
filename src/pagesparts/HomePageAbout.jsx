@@ -23,7 +23,7 @@ const HomePageAbout = () => {
               </p>
               <a href="#">
                 <p>Learn More </p>
-                <img src="/public/hpa-arrow.svg" alt="" />
+                <img src="/hpa-arrow.svg" alt="" />
               </a>
             </div>
             <div className="hpa-card">
@@ -37,7 +37,7 @@ const HomePageAbout = () => {
               </p>
               <a href="#">
                 <p>Learn More </p>
-                <img src="/public/hpa-arrow.svg" alt="" />
+                <img src="/hpa-arrow.svg" alt="" />
               </a>
             </div>
             <div className="hpa-card">
@@ -51,7 +51,7 @@ const HomePageAbout = () => {
               </p>
               <a href="#">
                 <p>Learn More </p>
-                <img src="/public/hpa-arrow.svg" alt="" />
+                <img src="/hpa-arrow.svg" alt="" />
               </a>
             </div>
           </div>
