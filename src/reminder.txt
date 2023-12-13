@@ -9,7 +9,9 @@
   home page hero right orane1 - 913
   home page hero right orange2 - 911
 
-4. hph means home page hero
+4. Terms
+ hph means home page hero
+ hpa means home page about to be
 
 
 5. reminder that work on hover carefully

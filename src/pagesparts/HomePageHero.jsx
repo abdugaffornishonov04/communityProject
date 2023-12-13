@@ -26,8 +26,7 @@ const HomePageHero = () => {
               </div>
             </div>
           </div>
-          <div className="hph-right">
-          </div>
+          <div className="hph-right"></div>
         </div>
       </div>
     </section>

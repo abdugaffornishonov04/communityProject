@@ -494,6 +494,166 @@
   }
 }
 
+.home-page-about {
+  padding-top: 96px;
+  padding-bottom: 96px;
+  background-color: #fff;
+}
+.home-page-about .hpa-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+@media (max-width: 1140px) {
+  .home-page-about .hpa-wrapper {
+    align-items: center;
+    text-align: center;
+  }
+}
+.home-page-about .hpa-wrapper .hpa-title {
+  width: 735px;
+  color: #1D3444;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  letter-spacing: -1.44px;
+  margin-bottom: 27px;
+}
+@media (max-width: 1140px) {
+  .home-page-about .hpa-wrapper .hpa-title {
+    width: 800px;
+  }
+}
+@media (max-width: 850px) {
+  .home-page-about .hpa-wrapper .hpa-title {
+    width: 100%;
+  }
+}
+@media (max-width: 440px) {
+  .home-page-about .hpa-wrapper .hpa-title {
+    font-size: 40px;
+  }
+}
+.home-page-about .hpa-wrapper .hpa-text {
+  width: 735px;
+  color: #5B5B5B;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+  margin-bottom: 64px;
+}
+@media (max-width: 1140px) {
+  .home-page-about .hpa-wrapper .hpa-text {
+    width: 100%;
+    text-align: center;
+  }
+}
+.home-page-about .hpa-wrapper .hpa-cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+@media (max-width: 1140px) {
+  .home-page-about .hpa-wrapper .hpa-cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+}
+.home-page-about .hpa-wrapper .hpa-cards .hpa-card {
+  display: flex;
+  flex-direction: column;
+}
+@media (max-width: 1140px) {
+  .home-page-about .hpa-wrapper .hpa-cards .hpa-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+.home-page-about .hpa-wrapper .hpa-cards .hpa-card .hpa-card-image {
+  width: 399px;
+  height: 242px;
+  border-radius: 20px;
+}
+@media (max-width: 1300px) {
+  .home-page-about .hpa-wrapper .hpa-cards .hpa-card .hpa-card-image {
+    width: 350px;
+  }
+}
+@media (max-width: 1140px) {
+  .home-page-about .hpa-wrapper .hpa-cards .hpa-card .hpa-card-image {
+    width: 100%;
+    height: auto;
+  }
+}
+@media (max-width: 385px) {
+  .home-page-about .hpa-wrapper .hpa-cards .hpa-card .hpa-card-image {
+    width: 300px;
+    height: auto;
+  }
+}
+.home-page-about .hpa-wrapper .hpa-cards .hpa-card .hpa-card-image img {
+  border-radius: 20px;
+  width: 100%;
+}
+.home-page-about .hpa-wrapper .hpa-cards .hpa-card h4 {
+  color: #0D1317;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 106.5%;
+  letter-spacing: -0.72px;
+  margin-top: 33px;
+  margin-bottom: 17px;
+}
+@media (max-width: 1300px) {
+  .home-page-about .hpa-wrapper .hpa-cards .hpa-card h4 {
+    margin-top: 10px;
+    width: 350px;
+  }
+}
+.home-page-about .hpa-wrapper .hpa-cards .hpa-card p {
+  width: 399px;
+  color: #5B5B5B;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+@media (max-width: 1300px) {
+  .home-page-about .hpa-wrapper .hpa-cards .hpa-card p {
+    width: 350px;
+  }
+}
+@media (max-width: 385px) {
+  .home-page-about .hpa-wrapper .hpa-cards .hpa-card p {
+    width: 280px;
+  }
+}
+.home-page-about .hpa-wrapper .hpa-cards .hpa-card a {
+  margin-top: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 130px;
+  transition: 0.6s ease-in-out;
+}
+.home-page-about .hpa-wrapper .hpa-cards .hpa-card a:hover {
+  width: 140px;
+}
+.home-page-about .hpa-wrapper .hpa-cards .hpa-card a p {
+  color: #F58A07;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 106.5%;
+}
+
 * {
   margin: 0;
   padding: 0;
