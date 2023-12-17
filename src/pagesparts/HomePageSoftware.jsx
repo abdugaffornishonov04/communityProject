@@ -17,7 +17,7 @@ const HomePageSoftware = () => {
           <div className="hps-cards">
             <div className="hps-card">
               <div className="hps-card-image">
-                <img src="/public/homepagsoftware1.svg" alt="" />
+                <img src="/homepagsoftware1.svg" alt="" />
               </div>
               <h5>Invoicing</h5>
               <p>
@@ -27,7 +27,7 @@ const HomePageSoftware = () => {
             </div>
             <div className="hps-card">
               <div className="hps-card-image">
-                <img src="/public/homepagsoftware2.svg" alt="" />
+                <img src="/homepagsoftware2.svg" alt="" />
               </div>
               <h5>Invoicing</h5>
               <p>
@@ -37,7 +37,7 @@ const HomePageSoftware = () => {
             </div>
             <div className="hps-card">
               <div className="hps-card-image">
-                <img src="/public/homepagsoftware3.svg" alt="" />
+                <img src="/homepagsoftware3.svg" alt="" />
               </div>
               <h5>Invoicing</h5>
               <p>
