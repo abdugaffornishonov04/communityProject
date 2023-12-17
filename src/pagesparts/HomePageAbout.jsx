@@ -50,7 +50,7 @@ const HomePageAbout = () => {
                 Curabitur sit amet eros blandit, hendrerit elit et,{" "}
               </p>
               <a href="#">
-                <p>Learn More </p>
+                <p>Learn More </p>  
                 <img src="/hpa-arrow.svg" alt="" />
               </a>
             </div>

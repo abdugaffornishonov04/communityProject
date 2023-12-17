@@ -12,6 +12,7 @@
 4. Terms
  hph means home page hero
  hpa means home page about to be
+ hps means home page software
 
 
 5. reminder that work on hover carefully

@@ -654,6 +654,41 @@
   line-height: 106.5%;
 }
 
+.home-page-software {
+  padding-top: 96px;
+  padding-bottom: 96px;
+  background-color: #EDF7FF;
+}
+.home-page-software .hps-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.home-page-software .hps-wrapper .hps-top {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 64px;
+}
+.home-page-software .hps-wrapper .hps-top h3 {
+  color: #0D1317;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 44px;
+  letter-spacing: -1.08px;
+}
+.home-page-software .hps-wrapper .hps-top p {
+  height: 102px;
+  color: #1D3444;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+}
+.home-page-software .hps-wrapper .hps-cards {
+  display: flex;
+}
+
 * {
   margin: 0;
   padding: 0;
